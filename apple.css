@@ -1,0 +1,21 @@
+
+.heading{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+
+}
+.tt::-webkit-scrollbar{
+    display: none;
+}
+.s{
+    opacity:0.5;
+}
+.s:hover{
+    opacity: 1;
+  
+}
+.tt:hover{
+    
+    transform: scale(0.9,0.9);
+}
